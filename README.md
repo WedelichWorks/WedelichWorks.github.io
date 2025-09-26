@@ -1,2 +1,2 @@
-# github.io
+# WedelichWorks.github.io
 My Personal Website
